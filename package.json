@@ -1,0 +1,22 @@
+{
+  "name": "sedpossimus",
+  "description": "Functional replacement for Object.prototype.hasOwnProperty()",
+  "version": "1.0.0",
+  "main": "index.js",
+  "module": "index.es.js",
+  "types": "index.d.ts",
+  "keywords": [
+    "et",
+    "cumque",
+    "Object",
+    "hasOwnProperty",
+    "nulla",
+    "quisquam"
+  ],
+  "license": "MIT",
+  "author": "AvaYost",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LavonPrice/sedpossimus.git"
+  }
+}
